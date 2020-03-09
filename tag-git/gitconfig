@@ -1,5 +1,5 @@
 [user]
 	email = eminemfck.yz@gmail.com
-	name = ElliotZ
+    name = ElliotZ
 [credential]
-	helper = netrc -f /home/elliotz/.netrc.gpg -v -d
+    helper = netrc -f ~/.netrc.gpg -v

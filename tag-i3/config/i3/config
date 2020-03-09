@@ -58,14 +58,16 @@ bindsym XF86MonBrightnessDown exec --no-startup-id ~/brightness Down
 # You can also use any non-zero value if you'd like to have a border
 for_window [class=".*"] border pixel 0
 
-for_window [instance="Godot_Engine"] floating enable
-
-# Gaps
+# Gaps default
 gaps inner 10
 gaps outer 20
 
+# Gap Toggle
+bindsym $mod+g exec --no-startup-id ~/gap-toggle.zsh
+
 # Force floating window for some apps
 #for_window [class="Spacefm" instance="spacefm"] floating enable
+for_window [instance="Godot_Engine"] floating enable
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -88,19 +90,20 @@ bindsym $mod+Shift+q kill
 
 # Use rofi as runner.
 bindsym $mod+d exec --no-startup-id rofi -combi-modi drun#ssh -show combi
-# Use rofi as window switcher, use $mod+tab as hotkey.
-bindsym $mod+Tab exec --no-startup-id rofi -combi-modi window -show combi
 # Alt-tab scrolls through workspaces
-bindsym mod1+Tab workspace next
+bindsym mod1+Tab workspace back_and_forth
+# super+left/right scrolls through workspaces
+bindcode $mod+49 workspace prev
+bindsym $mod+Tab workspace next
 
 # Use layout_manager.sh via hotkey
 bindsym $mod+Shift+m exec --no-startup-id ~/layout_manager.sh
 
 # change focus
-bindsym $mod+j focus left
-bindsym $mod+k focus down
-bindsym $mod+l focus up
-bindsym $mod+semicolon focus right
+bindsym $mod+h focus left
+bindsym $mod+j focus down
+bindsym $mod+k focus up
+bindsym $mod+l focus right
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Left focus left
@@ -109,10 +112,10 @@ bindsym $mod+Up focus up
 bindsym $mod+Right focus right
 
 # move focused window
-bindsym $mod+Shift+j move left
-bindsym $mod+Shift+k move down
-bindsym $mod+Shift+l move up
-bindsym $mod+Shift+semicolon move right
+bindsym $mod+Shift+h move left
+bindsym $mod+Shift+j move down
+bindsym $mod+Shift+k move up
+bindsym $mod+Shift+l move right
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Shift+Left move left
@@ -121,7 +124,7 @@ bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
 # split in horizontal orientation
-bindsym $mod+h split h
+bindsym $mod+b split h
 
 # split in vertical orientation
 bindsym $mod+v split v
@@ -198,10 +201,10 @@ mode "resize" {
         # Pressing right will grow the window’s width.
         # Pressing up will shrink the window’s height.
         # Pressing down will grow the window’s height.
-        bindsym j resize shrink width 10 px or 10 ppt
-        bindsym k resize grow height 10 px or 10 ppt
-        bindsym l resize shrink height 10 px or 10 ppt
-        bindsym semicolon resize grow width 10 px or 10 ppt
+        bindsym h resize shrink width 10 px or 10 ppt
+        bindsym j resize grow height 10 px or 10 ppt
+        bindsym k resize shrink height 10 px or 10 ppt
+        bindsym l resize grow width 10 px or 10 ppt
 
         # same bindings, but for the arrow keys
         bindsym Left resize shrink width 5 px or 5 ppt
