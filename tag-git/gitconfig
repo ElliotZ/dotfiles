@@ -2,4 +2,4 @@
 	email = eminemfck.yz@gmail.com
 	name = ElliotZ
 [credential]
-	helper = netrc -f /home/ajay/.netrc.gpg -v -d
+	helper = netrc -f /home/elliotz/.netrc.gpg -v -d
