@@ -1,0 +1,18 @@
+[submodule "tag-vim/vim_runtime"]
+	path = tag-vim/vim_runtime
+	url = https://github.com/amix/vimrc.git
+[submodule "tag-theme/themes/Nordic"]
+	path = tag-theme/themes/Nordic
+	url = https://github.com/EliverLara/Nordic.git
+[submodule "tag-theme/local/share/icons/Zafiro-icons"]
+	path = tag-theme/local/share/icons/Zafiro-icons
+	url = https://github.com/zayronxio/Zafiro-icons.git
+[submodule "tag-tmux/tmux/plugins/tmux-sensible"]
+	path = tag-tmux/tmux/plugins/tmux-sensible
+	url = https://git::@github.com/tmux-plugins/tmux-sensible
+[submodule "tag-tmux/tmux/plugins/nord-tmux"]
+	path = tag-tmux/tmux/plugins/nord-tmux
+	url = https://git::@github.com/arcticicestudio/nord-tmux
+[submodule "tag-tmux/tmux/plugins/tpm"]
+	path = tag-tmux/tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm

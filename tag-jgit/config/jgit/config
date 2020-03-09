@@ -1,0 +1,3 @@
+[filesystem "ElliotZ.localdomain|Oracle Corporation|1.8.0_242|/dev/sda4"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 6097 microseconds

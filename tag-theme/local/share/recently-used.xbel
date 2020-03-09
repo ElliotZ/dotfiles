@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/elliotz/Pictures/cg-wallpaper-untitled.png" added="2020-02-19T20:22:25Z" modified="2020-02-19T20:22:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-02-19T20:22:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Downloads/images" added="2020-02-19T20:40:15Z" modified="2020-02-19T20:40:15Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="spacefm" exec="&apos;spacefm %u&apos;" modified="2020-02-19T20:40:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Pictures/sc-202002202123.png" added="2020-02-21T02:25:38Z" modified="2020-02-21T02:25:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-02-21T02:25:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Pictures/illustrious-china-dress.jpg" added="2020-02-21T18:50:10Z" modified="2020-02-21T18:50:10Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-02-21T18:50:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Pictures/screenshot-current.png" added="2020-02-22T00:07:41Z" modified="2020-03-09T04:53:55Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2020-03-09T04:53:55Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/eclipse-workspace" added="2020-02-22T20:08:27Z" modified="2020-02-22T20:08:27Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2020-02-22T20:08:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/nord.epf" added="2020-02-22T20:38:53Z" modified="2020-02-22T21:04:02Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2020-02-22T21:04:02Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/nord-eclipse.xml" added="2020-02-22T21:05:11Z" modified="2020-02-22T21:05:11Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2020-02-22T21:05:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Downloads/Papirus-Nord.tar.gz" added="2020-02-23T02:43:03Z" modified="2020-02-23T02:43:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="lxappearance" exec="&apos;lxappearance %u&apos;" modified="2020-02-23T02:43:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Downloads/132890-AnArchCursor-v1.5-%5Bby.daevski%5D.tar.gz" added="2020-02-23T03:00:33Z" modified="2020-02-23T03:00:33Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="lxappearance" exec="&apos;lxappearance %u&apos;" modified="2020-02-23T03:00:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/.vim_runtime/vimrcs/basic.vim" added="2020-02-23T04:01:34Z" modified="2020-02-23T04:01:34Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Vim" exec="&apos;gvim %u&apos;" modified="2020-02-23T04:01:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/.vim_runtime/vimrcs/extended.vim" added="2020-02-23T04:01:52Z" modified="2020-02-23T04:01:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Vim" exec="&apos;gvim %u&apos;" modified="2020-02-23T04:01:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/.vim_runtime/vimrcs/filetypes.vim" added="2020-02-23T04:01:56Z" modified="2020-02-23T04:01:56Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Vim" exec="&apos;gvim %u&apos;" modified="2020-02-23T04:01:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/.vim_runtime/vimrcs/plugins_config.vim" added="2020-02-23T04:02:00Z" modified="2020-02-23T04:02:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Vim" exec="&apos;gvim %u&apos;" modified="2020-02-23T04:02:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/eclipse-workspace/Lab02-DSA" added="2020-02-24T17:43:08Z" modified="2020-02-24T23:34:55Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2020-02-24T23:34:55Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/2560-systems-labs-assgnmts/assign03/arithmetic.c" added="2020-02-28T21:27:33Z" modified="2020-02-29T04:16:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-02-29T04:16:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/godot" added="2020-03-01T20:39:49Z" modified="2020-03-01T20:39:49Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2020-03-01T20:39:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/pong-with-godot/ball.png" added="2020-03-02T12:21:55Z" modified="2020-03-02T12:21:55Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-02T12:21:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/pong-with-godot/left_pallete.png" added="2020-03-02T12:22:29Z" modified="2020-03-02T12:22:29Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-02T12:22:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/pong-with-godot/right_pallete.png" added="2020-03-02T12:23:00Z" modified="2020-03-02T12:23:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-02T12:23:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/pong-with-godot/separator.png" added="2020-03-02T12:23:13Z" modified="2020-03-02T12:23:13Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-02T12:23:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/OneDrive/%E7%95%99%E5%AD%A6/COMP2650%20comp%20archtre/asgnmt3/IMG_20200302_162837.jpg" added="2020-03-02T21:32:26Z" modified="2020-03-02T21:32:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-02T21:32:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/OneDrive/%E7%95%99%E5%AD%A6/COMP2650%20comp%20archtre/asgnmt3/IMG_20200302_162906.jpg" added="2020-03-02T21:32:26Z" modified="2020-03-02T21:32:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-02T21:32:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/OneDrive/%E7%95%99%E5%AD%A6/COMP2650%20comp%20archtre/asgnmt3/IMG_20200302_162844.jpg" added="2020-03-02T21:32:26Z" modified="2020-03-02T21:32:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-02T21:32:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/OneDrive/%E7%95%99%E5%AD%A6/COMP2650%20comp%20archtre/asgnmt3/IMG_20200302_162857.jpg" added="2020-03-02T21:32:26Z" modified="2020-03-02T21:32:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-02T21:32:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Downloads/Shoot%20Day%201%20Call%20Sheet.pdf" added="2020-03-03T00:06:25Z" modified="2020-03-03T00:06:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-03T00:06:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/OneDrive/%E7%95%99%E5%AD%A6/CMAF1120/prod%20lab/Shoot%20Day%202%20Call%20Sheet.pdf" added="2020-03-04T23:07:18Z" modified="2020-03-04T23:07:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-04T23:07:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/OneDrive/%E7%95%99%E5%AD%A6/COMP2650%20comp%20archtre/quiz4/IMG_20200305_134622.jpg" added="2020-03-05T19:03:49Z" modified="2020-03-05T19:03:49Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-05T19:03:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/OneDrive/%E7%95%99%E5%AD%A6/COMP2650%20comp%20archtre/quiz4/IMG_20200305_140249.jpg" added="2020-03-05T19:03:56Z" modified="2020-03-05T19:03:56Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-05T19:03:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/pong-with-godot-binary/windows/pong-with-godot.exe" added="2020-03-05T20:36:52Z" modified="2020-03-05T20:36:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-05T20:36:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/pong-with-godot-binary/windows/pong-with-godot.pck" added="2020-03-05T20:36:52Z" modified="2020-03-05T20:36:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-05T20:36:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/pong-with-godot-binary/pong-with-godot-win.zip" added="2020-03-05T20:59:16Z" modified="2020-03-05T20:59:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-05T20:59:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/pong-with-godot-binary/pong-with-godot-linux.tar.gz" added="2020-03-05T20:59:26Z" modified="2020-03-05T20:59:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-05T20:59:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/pong-with-godot-binary/OSX/pong-with-godot-mac.zip" added="2020-03-05T20:59:40Z" modified="2020-03-05T20:59:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-05T20:59:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/Awesome-CV/examples/resume.pdf" added="2020-03-05T22:51:07Z" modified="2020-03-05T22:51:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-05T22:51:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/Awesome-CV/examples/resume.tex" added="2020-03-05T22:54:20Z" modified="2020-03-05T22:54:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-tex"/>
+        <bookmark:applications>
+          <bookmark:application name="Vim" exec="&apos;gvim %u&apos;" modified="2020-03-05T22:54:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/vim-latex-live-preview-e2r6y4ru/home/elliotz/Documents/LLPtest/test.pdf" added="2020-03-05T23:46:47Z" modified="2020-03-05T23:46:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-05T23:46:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Documents/resume-2020/examples/resume.pdf" added="2020-03-06T00:53:21Z" modified="2020-03-06T00:53:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-06T00:53:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Documents/resume-2020/main.pdf" added="2020-03-07T21:56:38Z" modified="2020-03-08T01:01:36Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-08T01:01:36Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Documents/xecjk-test/fontawesome.pdf" added="2020-03-08T01:46:50Z" modified="2020-03-09T04:42:32Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-09T04:42:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Documents/xecjk-test/main.pdf" added="2020-03-08T01:50:28Z" modified="2020-03-09T03:53:15Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-09T03:53:15Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/yadcv/main.pdf" added="2020-03-09T02:28:48Z" modified="2020-03-09T02:30:28Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-09T02:28:48Z" count="1"/>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-09T02:30:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/Downloads/main-1.png" added="2020-03-09T02:31:29Z" modified="2020-03-09T02:31:29Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2020-03-09T02:31:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/elliotz/git/yadcv/fontawesome.pdf" added="2020-03-09T02:46:41Z" modified="2020-03-09T02:46:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-09T02:46:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
