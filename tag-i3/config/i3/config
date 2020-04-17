@@ -69,6 +69,12 @@ bindsym $mod+g exec --no-startup-id ~/gap-toggle.zsh
 #for_window [class="Spacefm" instance="spacefm"] floating enable
 for_window [instance="Godot_Engine"] floating enable
 
+# assign window to defined workspace
+assign [class="^Google-chrome$"] number 2
+assign [class="^discord$"] number 3
+assign [class="^Google Play Music Desktop Player$"] number 10
+assign [class="^Eclipse"] number 4
+
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
